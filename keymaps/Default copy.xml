@@ -3,4 +3,8 @@
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
 </keymap>
