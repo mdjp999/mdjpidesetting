@@ -1,0 +1,19 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2017-12-14T14:29:19</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.2.6.0.0</property>
+    <property name="modified">2017-12-14T14:41:35</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.3" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Lucida Sans Typewriter" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
+  </console-font>
+</scheme>
